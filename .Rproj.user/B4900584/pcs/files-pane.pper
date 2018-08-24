@@ -1,0 +1,9 @@
+{
+    "path" : "~/GitHub/elections96",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
